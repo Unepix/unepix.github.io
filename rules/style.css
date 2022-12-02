@@ -10,7 +10,7 @@ p {
   border-radius: 12px;
   font-size: 14px;
 }
-#temp_title {
+.temp_title {
   background-color: #ffffff;
   font-weight: bold;
 }
