@@ -10,6 +10,7 @@ p {
   border-radius: 12px;
   font-size: 14px;
 }
-span {
-  background-color: #f3f3f3;
+#temp_title {
+  background-color: #ffffff;
+  font-weight: bold;
 }
