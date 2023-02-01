@@ -1,1568 +1,1568 @@
 [
   {
-    "name": "Yükselme adası",
+    "name": "Yükselme Adası",
     "code": "AC",
     "emoji": "🇦🇨",
-    "unicode": "U 1F1E6 U 1F1E8"
+    "unicode": "U+1F1E6 U+1F1E8"
   },
   {
     "name": "Andorra",
     "code": "AD",
     "emoji": "🇦🇩",
-    "unicode": "U 1F1E6 U 1F1E9"
+    "unicode": "U+1F1E6 U+1F1E9"
   },
   {
     "name": "Birleşik Arap Emirlikleri",
     "code": "AE",
     "emoji": "🇦🇪",
-    "unicode": "U 1F1E6 U 1F1EA"
+    "unicode": "U+1F1E6 U+1F1EA"
   },
   {
     "name": "Afganistan",
     "code": "AF",
     "emoji": "🇦🇫",
-    "unicode": "U 1F1E6 U 1F1EB"
+    "unicode": "U+1F1E6 U+1F1EB"
   },
   {
-    "name": "Antigua",
+    "name": "Antigua ve Barbuda",
     "code": "AG",
     "emoji": "🇦🇬",
-    "unicode": "U 1F1E6 U 1F1EC"
+    "unicode": "U+1F1E6 U+1F1EC"
   },
   {
     "name": "Anguilla",
     "code": "AI",
     "emoji": "🇦🇮",
-    "unicode": "U 1F1E6 U 1F1EE"
+    "unicode": "U+1F1E6 U+1F1EE"
   },
   {
     "name": "Arnavutluk",
     "code": "AL",
     "emoji": "🇦🇱",
-    "unicode": "U 1F1E6 U 1F1F1"
+    "unicode": "U+1F1E6 U+1F1F1"
   },
   {
     "name": "Ermenistan",
     "code": "AM",
     "emoji": "🇦🇲",
-    "unicode": "U 1F1E6 U 1F1F2"
+    "unicode": "U+1F1E6 U+1F1F2"
   },
   {
     "name": "Angola",
-    "code": "AÖ",
+    "code": "AO",
     "emoji": "🇦🇴",
-    "unicode": "U 1F1E6 U 1F1F4"
+    "unicode": "U+1F1E6 U+1F1F4"
   },
   {
     "name": "Antarktika",
     "code": "AQ",
     "emoji": "🇦🇶",
-    "unicode": "U 1F1E6 U 1F1F6"
+    "unicode": "U+1F1E6 U+1F1F6"
   },
   {
     "name": "Arjantin",
     "code": "AR",
     "emoji": "🇦🇷",
-    "unicode": "U 1F1E6 U 1F1F7"
+    "unicode": "U+1F1E6 U+1F1F7"
   },
   {
     "name": "Amerikan Samoası",
-    "code": "GİBİ",
+    "code": "AS",
     "emoji": "🇦🇸",
-    "unicode": "U 1F1E6 U 1F1F8"
+    "unicode": "U+1F1E6 U+1F1F8"
   },
   {
     "name": "Avusturya",
     "code": "AT",
     "emoji": "🇦🇹",
-    "unicode": "U 1F1E6 U 1F1F9"
+    "unicode": "U+1F1E6 U+1F1F9"
   },
   {
     "name": "Avustralya",
-    "code": "au",
+    "code": "AU",
     "emoji": "🇦🇺",
-    "unicode": "U 1F1E6 U 1F1FA"
+    "unicode": "U+1F1E6 U+1F1FA"
   },
   {
     "name": "Aruba",
     "code": "AW",
     "emoji": "🇦🇼",
-    "unicode": "U 1F1E6 U 1F1FC"
+    "unicode": "U+1F1E6 U+1F1FC"
   },
   {
-    "name": "Aland adaları",
-    "code": "balta",
+    "name": "Aland Adaları",
+    "code": "AX",
     "emoji": "🇦🇽",
-    "unicode": "U 1F1E6 U 1F1FD"
+    "unicode": "U+1F1E6 U+1F1FD"
   },
   {
     "name": "Azerbaycan",
-    "code": "A'dan Z'ye",
+    "code": "AZ",
     "emoji": "🇦🇿",
-    "unicode": "U 1F1E6 U 1F1FF"
+    "unicode": "U+1F1E6 U+1F1FF"
   },
   {
-    "name": "Bosna",
+    "name": "Bosna & Hersek",
     "code": "BA",
     "emoji": "🇧🇦",
-    "unicode": "U 1F1E7 U 1F1E6"
+    "unicode": "U+1F1E7 U+1F1E6"
   },
   {
     "name": "Barbados",
     "code": "BB",
     "emoji": "🇧🇧",
-    "unicode": "U 1F1E7 U 1F1E7"
+    "unicode": "U+1F1E7 U+1F1E7"
   },
   {
     "name": "Bangladeş",
     "code": "BD",
     "emoji": "🇧🇩",
-    "unicode": "U 1F1E7 U 1F1E9"
+    "unicode": "U+1F1E7 U+1F1E9"
   },
   {
     "name": "Belçika",
-    "code": "OLMAK",
+    "code": "BE",
     "emoji": "🇧🇪",
-    "unicode": "U 1F1E7 U 1F1EA"
+    "unicode": "U+1F1E7 U+1F1EA"
   },
   {
     "name": "Burkina Faso",
-    "code": "erkek arkadaş",
+    "code": "BF",
     "emoji": "🇧🇫",
-    "unicode": "U 1F1E7 U 1F1EB"
+    "unicode": "U+1F1E7 U+1F1EB"
   },
   {
     "name": "Bulgaristan",
     "code": "BG",
     "emoji": "🇧🇬",
-    "unicode": "U 1F1E7 U 1F1EC"
+    "unicode": "U+1F1E7 U+1F1EC"
   },
   {
     "name": "Bahreyn",
     "code": "BH",
     "emoji": "🇧🇭",
-    "unicode": "U 1F1E7 U 1F1ED"
+    "unicode": "U+1F1E7 U+1F1ED"
   },
   {
     "name": "Burundi",
-    "code": "Bİ",
+    "code": "BI",
     "emoji": "🇧🇮",
-    "unicode": "U 1F1E7 U 1F1EE"
+    "unicode": "U+1F1E7 U+1F1EE"
   },
   {
     "name": "Benin",
-    "code": "bj",
+    "code": "BJ",
     "emoji": "🇧🇯",
-    "unicode": "U 1F1E7 U 1F1EF"
+    "unicode": "U+1F1E7 U+1F1EF"
   },
   {
     "name": "Aziz Barthélemy",
     "code": "BL",
     "emoji": "🇧🇱",
-    "unicode": "U 1F1E7 U 1F1F1"
+    "unicode": "U+1F1E7 U+1F1F1"
   },
   {
-    "name": "bermuda",
+    "name": "Bermuda",
     "code": "BM",
     "emoji": "🇧🇲",
-    "unicode": "U 1F1E7 U 1F1F2"
+    "unicode": "U+1F1E7 U+1F1F2"
   },
   {
     "name": "Brunei",
     "code": "BN",
     "emoji": "🇧🇳",
-    "unicode": "U 1F1E7 U 1F1F3"
+    "unicode": "U+1F1E7 U+1F1F3"
   },
   {
     "name": "Bolivya",
-    "code": "BÖ",
+    "code": "BO",
     "emoji": "🇧🇴",
-    "unicode": "U 1F1E7 U 1F1F4"
+    "unicode": "U+1F1E7 U+1F1F4"
   },
   {
-    "name": "Karayip Hollandası",
+    "name": "",
     "code": "BQ",
     "emoji": "🇧🇶",
-    "unicode": "U 1F1E7 U 1F1F6"
+    "unicode": "U+1F1E7 U+1F1F6"
   },
   {
     "name": "Brezilya",
     "code": "BR",
     "emoji": "🇧🇷",
-    "unicode": "U 1F1E7 U 1F1F7"
+    "unicode": "U+1F1E7 U+1F1F7"
   },
   {
     "name": "Bahamalar",
     "code": "BS",
     "emoji": "🇧🇸",
-    "unicode": "U 1F1E7 U 1F1F8"
+    "unicode": "U+1F1E7 U+1F1F8"
   },
   {
     "name": "Butan",
     "code": "BT",
     "emoji": "🇧🇹",
-    "unicode": "U 1F1E7 U 1F1F9"
+    "unicode": "U+1F1E7 U+1F1F9"
   },
   {
     "name": "Bouvet Adası",
     "code": "BV",
     "emoji": "🇧🇻",
-    "unicode": "U 1F1E7 U 1F1FB"
+    "unicode": "U+1F1E7 U+1F1FB"
   },
   {
     "name": "Botsvana",
     "code": "BW",
     "emoji": "🇧🇼",
-    "unicode": "U 1F1E7 U 1F1FC"
+    "unicode": "U+1F1E7 U+1F1FC"
   },
   {
     "name": "Belarus",
-    "code": "TARAFINDAN",
+    "code": "BY",
     "emoji": "🇧🇾",
-    "unicode": "U 1F1E7 U 1F1FE"
+    "unicode": "U+1F1E7 U+1F1FE"
   },
   {
-    "name": "belize",
+    "name": "Belize",
     "code": "BZ",
     "emoji": "🇧🇿",
-    "unicode": "U 1F1E7 U 1F1FF"
+    "unicode": "U+1F1E7 U+1F1FF"
   },
   {
     "name": "Kanada",
     "code": "CA",
     "emoji": "🇨🇦",
-    "unicode": "U 1F1E8 U 1F1E6"
+    "unicode": "U+1F1E8 U+1F1E6"
   },
   {
-    "name": "Cocos (Keeling) Adaları",
+    "name": "Cocos Adaları",
     "code": "CC",
     "emoji": "🇨🇨",
-    "unicode": "U 1F1E8 U 1F1E8"
+    "unicode": "U+1F1E8 U+1F1E8"
   },
   {
     "name": "Kongo - Kinşasa",
     "code": "CD",
     "emoji": "🇨🇩",
-    "unicode": "U 1F1E8 U 1F1E9"
+    "unicode": "U+1F1E8 U+1F1E9"
   },
   {
     "name": "Orta Afrika Cumhuriyeti",
     "code": "CF",
     "emoji": "🇨🇫",
-    "unicode": "U 1F1E8 U 1F1EB"
+    "unicode": "U+1F1E8 U+1F1EB"
   },
   {
-    "name": "Kongo - Brazavil",
+    "name": "Congo - Brazzaville",
     "code": "CG",
     "emoji": "🇨🇬",
-    "unicode": "U 1F1E8 U 1F1EC"
+    "unicode": "U+1F1E8 U+1F1EC"
   },
   {
-    "name": "İsviçre",
+    "name": "Switzerland",
     "code": "CH",
     "emoji": "🇨🇭",
-    "unicode": "U 1F1E8 U 1F1ED"
+    "unicode": "U+1F1E8 U+1F1ED"
   },
   {
-    "name": "Fildişi Sahili",
+    "name": "Côte d’Ivoire",
     "code": "CI",
     "emoji": "🇨🇮",
-    "unicode": "U 1F1E8 U 1F1EE"
+    "unicode": "U+1F1E8 U+1F1EE"
   },
   {
-    "name": "Cook Adaları",
+    "name": "Cook Islands",
     "code": "CK",
     "emoji": "🇨🇰",
-    "unicode": "U 1F1E8 U 1F1F0"
+    "unicode": "U+1F1E8 U+1F1F0"
   },
   {
-    "name": "Şili",
+    "name": "Chile",
     "code": "CL",
     "emoji": "🇨🇱",
-    "unicode": "U 1F1E8 U 1F1F1"
+    "unicode": "U+1F1E8 U+1F1F1"
   },
   {
-    "name": "Kamerun",
-    "code": "SANTİMETRE",
+    "name": "Cameroon",
+    "code": "CM",
     "emoji": "🇨🇲",
-    "unicode": "U 1F1E8 U 1F1F2"
+    "unicode": "U+1F1E8 U+1F1F2"
   },
   {
-    "name": "Çin",
+    "name": "China",
     "code": "CN",
     "emoji": "🇨🇳",
-    "unicode": "U 1F1E8 U 1F1F3"
+    "unicode": "U+1F1E8 U+1F1F3"
   },
   {
-    "name": "Kolombiya",
+    "name": "Colombia",
     "code": "CO",
     "emoji": "🇨🇴",
-    "unicode": "U 1F1E8 U 1F1F4"
+    "unicode": "U+1F1E8 U+1F1F4"
   },
   {
-    "name": "Clipperton Adası",
+    "name": "Clipperton Island",
     "code": "CP",
     "emoji": "🇨🇵",
-    "unicode": "U 1F1E8 U 1F1F5"
+    "unicode": "U+1F1E8 U+1F1F5"
   },
   {
-    "name": "Kosta Rika",
+    "name": "Costa Rica",
     "code": "CR",
     "emoji": "🇨🇷",
-    "unicode": "U 1F1E8 U 1F1F7"
+    "unicode": "U+1F1E8 U+1F1F7"
   },
   {
-    "name": "Küba",
-    "code": "GB",
+    "name": "Cuba",
+    "code": "CU",
     "emoji": "🇨🇺",
-    "unicode": "U 1F1E8 U 1F1FA"
+    "unicode": "U+1F1E8 U+1F1FA"
   },
   {
-    "name": "Yeşil Burun",
-    "code": "Özgeçmiş",
+    "name": "Cape Verde",
+    "code": "CV",
     "emoji": "🇨🇻",
-    "unicode": "U 1F1E8 U 1F1FB"
+    "unicode": "U+1F1E8 U+1F1FB"
   },
   {
-    "name": "Curacao",
+    "name": "Curaçao",
     "code": "CW",
     "emoji": "🇨🇼",
-    "unicode": "U 1F1E8 U 1F1FC"
+    "unicode": "U+1F1E8 U+1F1FC"
   },
   {
-    "name": "Noel Adası",
-    "code": "müşteri deneyimi",
+    "name": "Christmas Island",
+    "code": "CX",
     "emoji": "🇨🇽",
-    "unicode": "U 1F1E8 U 1F1FD"
+    "unicode": "U+1F1E8 U+1F1FD"
   },
   {
-    "name": "Kıbrıs",
+    "name": "Cyprus",
     "code": "CY",
     "emoji": "🇨🇾",
-    "unicode": "U 1F1E8 U 1F1FE"
+    "unicode": "U+1F1E8 U+1F1FE"
   },
   {
-    "name": "Çekya",
+    "name": "Czechia",
     "code": "CZ",
     "emoji": "🇨🇿",
-    "unicode": "U 1F1E8 U 1F1FF"
+    "unicode": "U+1F1E8 U+1F1FF"
   },
   {
-    "name": "Almanya",
-    "code": "Almanya",
+    "name": "Germany",
+    "code": "DE",
     "emoji": "🇩🇪",
-    "unicode": "U 1F1E9 U 1F1EA"
+    "unicode": "U+1F1E9 U+1F1EA"
   },
   {
-    "name": "diego garcia",
+    "name": "Diego Garcia",
     "code": "DG",
     "emoji": "🇩🇬",
-    "unicode": "U 1F1E9 U 1F1EC"
+    "unicode": "U+1F1E9 U+1F1EC"
   },
   {
-    "name": "Cibuti",
+    "name": "Djibouti",
     "code": "DJ",
     "emoji": "🇩🇯",
-    "unicode": "U 1F1E9 U 1F1EF"
+    "unicode": "U+1F1E9 U+1F1EF"
   },
   {
-    "name": "Danimarka",
-    "code": "bilgi yok",
+    "name": "Denmark",
+    "code": "DK",
     "emoji": "🇩🇰",
-    "unicode": "U 1F1E9 U 1F1F0"
+    "unicode": "U+1F1E9 U+1F1F0"
   },
   {
-    "name": "Dominika",
+    "name": "Dominica",
     "code": "DM",
     "emoji": "🇩🇲",
-    "unicode": "U 1F1E9 U 1F1F2"
+    "unicode": "U+1F1E9 U+1F1F2"
   },
   {
-    "name": "Dominik Cumhuriyeti",
-    "code": "YAPMAK",
+    "name": "Dominican Republic",
+    "code": "DO",
     "emoji": "🇩🇴",
-    "unicode": "U 1F1E9 U 1F1F4"
+    "unicode": "U+1F1E9 U+1F1F4"
   },
   {
-    "name": "Cezayir",
+    "name": "Algeria",
     "code": "DZ",
     "emoji": "🇩🇿",
-    "unicode": "U 1F1E9 U 1F1FF"
+    "unicode": "U+1F1E9 U+1F1FF"
   },
   {
-    "name": "Ceuta",
+    "name": "Ceuta & Melilla",
     "code": "EA",
     "emoji": "🇪🇦",
-    "unicode": "U 1F1EA U 1F1E6"
+    "unicode": "U+1F1EA U+1F1E6"
   },
   {
-    "name": "Ekvador",
-    "code": "AT",
+    "name": "Ecuador",
+    "code": "EC",
     "emoji": "🇪🇨",
-    "unicode": "U 1F1EA U 1F1E8"
+    "unicode": "U+1F1EA U+1F1E8"
   },
   {
-    "name": "Estonya",
+    "name": "Estonia",
     "code": "EE",
     "emoji": "🇪🇪",
-    "unicode": "U 1F1EA U 1F1EA"
+    "unicode": "U+1F1EA U+1F1EA"
   },
   {
-    "name": "Mısır",
-    "code": "ÖRNEĞİN",
+    "name": "Egypt",
+    "code": "EG",
     "emoji": "🇪🇬",
-    "unicode": "U 1F1EA U 1F1EC"
+    "unicode": "U+1F1EA U+1F1EC"
   },
   {
-    "name": "Batı Sahra",
+    "name": "Western Sahara",
     "code": "EH",
     "emoji": "🇪🇭",
-    "unicode": "U 1F1EA U 1F1ED"
+    "unicode": "U+1F1EA U+1F1ED"
   },
   {
-    "name": "Eritre",
-    "code": "acil servis",
+    "name": "Eritrea",
+    "code": "ER",
     "emoji": "🇪🇷",
-    "unicode": "U 1F1EA U 1F1F7"
+    "unicode": "U+1F1EA U+1F1F7"
   },
   {
-    "name": "ispanya",
+    "name": "Spain",
     "code": "ES",
     "emoji": "🇪🇸",
-    "unicode": "U 1F1EA U 1F1F8"
+    "unicode": "U+1F1EA U+1F1F8"
   },
   {
-    "name": "Etiyopya",
+    "name": "Ethiopia",
     "code": "ET",
     "emoji": "🇪🇹",
-    "unicode": "U 1F1EA U 1F1F9"
+    "unicode": "U+1F1EA U+1F1F9"
   },
   {
-    "name": "Avrupa Birliği",
-    "code": "AB",
+    "name": "European Union",
+    "code": "EU",
     "emoji": "🇪🇺",
-    "unicode": "U 1F1EA U 1F1FA"
+    "unicode": "U+1F1EA U+1F1FA"
   },
   {
-    "name": "Finlandiya",
+    "name": "Finland",
     "code": "FI",
     "emoji": "🇫🇮",
-    "unicode": "U 1F1EB U 1F1EE"
+    "unicode": "U+1F1EB U+1F1EE"
   },
   {
     "name": "Fiji",
     "code": "FJ",
     "emoji": "🇫🇯",
-    "unicode": "U 1F1EB U 1F1EF"
+    "unicode": "U+1F1EB U+1F1EF"
   },
   {
-    "name": "Falkland adaları",
+    "name": "Falkland Islands",
     "code": "FK",
     "emoji": "🇫🇰",
-    "unicode": "U 1F1EB U 1F1F0"
+    "unicode": "U+1F1EB U+1F1F0"
   },
   {
-    "name": "Mikronezya",
+    "name": "Micronesia",
     "code": "FM",
     "emoji": "🇫🇲",
-    "unicode": "U 1F1EB U 1F1F2"
+    "unicode": "U+1F1EB U+1F1F2"
   },
   {
-    "name": "Faroe Adaları",
+    "name": "Faroe Islands",
     "code": "FO",
     "emoji": "🇫🇴",
-    "unicode": "U 1F1EB U 1F1F4"
+    "unicode": "U+1F1EB U+1F1F4"
   },
   {
-    "name": "Fransa",
+    "name": "France",
     "code": "FR",
     "emoji": "🇫🇷",
-    "unicode": "U 1F1EB U 1F1F7"
+    "unicode": "U+1F1EB U+1F1F7"
   },
   {
     "name": "Gabon",
     "code": "GA",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1E6"
+    "emoji": "🇬🇦",
+    "unicode": "U+1F1EC U+1F1E6"
   },
   {
-    "name": "Birleşik Krallık",
+    "name": "United Kingdom",
     "code": "GB",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1E7"
+    "emoji": "🇬🇧",
+    "unicode": "U+1F1EC U+1F1E7"
   },
   {
     "name": "Grenada",
     "code": "GD",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1E9"
+    "emoji": "🇬🇩",
+    "unicode": "U+1F1EC U+1F1E9"
   },
   {
-    "name": "Gürcistan",
+    "name": "Georgia",
     "code": "GE",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1EA"
+    "emoji": "🇬🇪",
+    "unicode": "U+1F1EC U+1F1EA"
   },
   {
-    "name": "Fransız Guyanası",
+    "name": "French Guiana",
     "code": "GF",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1EB"
+    "emoji": "🇬🇫",
+    "unicode": "U+1F1EC U+1F1EB"
   },
   {
-    "name": "guernsey",
-    "code": "İyi oyun",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1EC"
+    "name": "Guernsey",
+    "code": "GG",
+    "emoji": "🇬🇬",
+    "unicode": "U+1F1EC U+1F1EC"
   },
   {
-    "name": "Gana",
+    "name": "Ghana",
     "code": "GH",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1ED"
+    "emoji": "🇬🇭",
+    "unicode": "U+1F1EC U+1F1ED"
   },
   {
-    "name": "Cebelitarık",
+    "name": "Gibraltar",
     "code": "GI",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1EE"
+    "emoji": "🇬🇮",
+    "unicode": "U+1F1EC U+1F1EE"
   },
   {
-    "name": "Grönland",
+    "name": "Greenland",
     "code": "GL",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1F1"
+    "emoji": "🇬🇱",
+    "unicode": "U+1F1EC U+1F1F1"
   },
   {
-    "name": "Gambiya",
+    "name": "Gambia",
     "code": "GM",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1F2"
+    "emoji": "🇬🇲",
+    "unicode": "U+1F1EC U+1F1F2"
   },
   {
-    "name": "Gine",
+    "name": "Guinea",
     "code": "GN",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1F3"
+    "emoji": "🇬🇳",
+    "unicode": "U+1F1EC U+1F1F3"
   },
   {
     "name": "Guadeloupe",
     "code": "GP",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1F5"
+    "emoji": "🇬🇵",
+    "unicode": "U+1F1EC U+1F1F5"
   },
   {
-    "name": "Ekvator Ginesi",
+    "name": "Equatorial Guinea",
     "code": "GQ",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1F6"
+    "emoji": "🇬🇶",
+    "unicode": "U+1F1EC U+1F1F6"
   },
   {
-    "name": "Yunanistan",
+    "name": "Greece",
     "code": "GR",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1F7"
+    "emoji": "🇬🇷",
+    "unicode": "U+1F1EC U+1F1F7"
   },
   {
-    "name": "Güney Georgia",
+    "name": "South Georgia & South Sandwich Islands",
     "code": "GS",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1F8"
+    "emoji": "🇬🇸",
+    "unicode": "U+1F1EC U+1F1F8"
   },
   {
     "name": "Guatemala",
     "code": "GT",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1F9"
+    "emoji": "🇬🇹",
+    "unicode": "U+1F1EC U+1F1F9"
   },
   {
     "name": "Guam",
-    "code": "gu",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1FA"
+    "code": "GU",
+    "emoji": "🇬🇺",
+    "unicode": "U+1F1EC U+1F1FA"
   },
   {
-    "name": "Gine-Bissau",
+    "name": "Guinea-Bissau",
     "code": "GW",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1FC"
+    "emoji": "🇬🇼",
+    "unicode": "U+1F1EC U+1F1FC"
   },
   {
     "name": "Guyana",
     "code": "GY",
-    "emoji": "🇹🇷",
-    "unicode": "U 1F1EC U 1F1FE"
+    "emoji": "🇬🇾",
+    "unicode": "U+1F1EC U+1F1FE"
   },
   {
-    "name": "Hong Kong ÖİB Çin",
+    "name": "Hong Kong SAR China",
     "code": "HK",
     "emoji": "🇭🇰",
-    "unicode": "U 1F1ED U 1F1F0"
+    "unicode": "U+1F1ED U+1F1F0"
   },
   {
-    "name": "Duyulmuş",
+    "name": "Heard & McDonald Islands",
     "code": "HM",
     "emoji": "🇭🇲",
-    "unicode": "U 1F1ED U 1F1F2"
+    "unicode": "U+1F1ED U+1F1F2"
   },
   {
     "name": "Honduras",
     "code": "HN",
     "emoji": "🇭🇳",
-    "unicode": "U 1F1ED U 1F1F3"
+    "unicode": "U+1F1ED U+1F1F3"
   },
   {
-    "name": "Hırvatistan",
-    "code": "İK",
+    "name": "Croatia",
+    "code": "HR",
     "emoji": "🇭🇷",
-    "unicode": "U 1F1ED U 1F1F7"
+    "unicode": "U+1F1ED U+1F1F7"
   },
   {
     "name": "Haiti",
     "code": "HT",
     "emoji": "🇭🇹",
-    "unicode": "U 1F1ED U 1F1F9"
+    "unicode": "U+1F1ED U+1F1F9"
   },
   {
-    "name": "Macaristan",
-    "code": "HÜ",
+    "name": "Hungary",
+    "code": "HU",
     "emoji": "🇭🇺",
-    "unicode": "U 1F1ED U 1F1FA"
+    "unicode": "U+1F1ED U+1F1FA"
   },
   {
-    "name": "Kanarya Adaları",
+    "name": "Canary Islands",
     "code": "IC",
     "emoji": "🇮🇨",
-    "unicode": "U 1F1EE U 1F1E8"
+    "unicode": "U+1F1EE U+1F1E8"
   },
   {
-    "name": "Endonezya",
-    "code": "İD",
+    "name": "Indonesia",
+    "code": "ID",
     "emoji": "🇮🇩",
-    "unicode": "U 1F1EE U 1F1E9"
+    "unicode": "U+1F1EE U+1F1E9"
   },
   {
-    "name": "İrlanda",
+    "name": "Ireland",
     "code": "IE",
     "emoji": "🇮🇪",
-    "unicode": "U 1F1EE U 1F1EA"
+    "unicode": "U+1F1EE U+1F1EA"
   },
   {
-    "name": "İsrail",
-    "code": "il",
+    "name": "Israel",
+    "code": "IL",
     "emoji": "🇮🇱",
-    "unicode": "U 1F1EE U 1F1F1"
+    "unicode": "U+1F1EE U+1F1F1"
   },
   {
-    "name": "Man Adası",
-    "code": "BEN",
+    "name": "Isle of Man",
+    "code": "IM",
     "emoji": "🇮🇲",
-    "unicode": "U 1F1EE U 1F1F2"
+    "unicode": "U+1F1EE U+1F1F2"
   },
   {
-    "name": "Hindistan",
-    "code": "İÇİNDE",
+    "name": "India",
+    "code": "IN",
     "emoji": "🇮🇳",
-    "unicode": "U 1F1EE U 1F1F3"
+    "unicode": "U+1F1EE U+1F1F3"
   },
   {
-    "name": "İngiliz Hint Okyanusu Bölgesi",
+    "name": "British Indian Ocean Territory",
     "code": "IO",
     "emoji": "🇮🇴",
-    "unicode": "U 1F1EE U 1F1F4"
+    "unicode": "U+1F1EE U+1F1F4"
   },
   {
-    "name": "Irak",
+    "name": "Iraq",
     "code": "IQ",
     "emoji": "🇮🇶",
-    "unicode": "U 1F1EE U 1F1F6"
+    "unicode": "U+1F1EE U+1F1F6"
   },
   {
-    "name": "İran",
+    "name": "Iran",
     "code": "IR",
     "emoji": "🇮🇷",
-    "unicode": "U 1F1EE U 1F1F7"
+    "unicode": "U+1F1EE U+1F1F7"
   },
   {
-    "name": "İzlanda",
-    "code": "DIR-DİR",
+    "name": "Iceland",
+    "code": "IS",
     "emoji": "🇮🇸",
-    "unicode": "U 1F1EE U 1F1F8"
+    "unicode": "U+1F1EE U+1F1F8"
   },
   {
-    "name": "İtalya",
-    "code": "BT",
+    "name": "Italy",
+    "code": "IT",
     "emoji": "🇮🇹",
-    "unicode": "U 1F1EE U 1F1F9"
+    "unicode": "U+1F1EE U+1F1F9"
   },
   {
     "name": "Jersey",
     "code": "JE",
     "emoji": "🇯🇪",
-    "unicode": "U 1F1EF U 1F1EA"
+    "unicode": "U+1F1EF U+1F1EA"
   },
   {
-    "name": "Jamaika",
+    "name": "Jamaica",
     "code": "JM",
     "emoji": "🇯🇲",
-    "unicode": "U 1F1EF U 1F1F2"
+    "unicode": "U+1F1EF U+1F1F2"
   },
   {
-    "name": "Ürdün",
+    "name": "Jordan",
     "code": "JO",
     "emoji": "🇯🇴",
-    "unicode": "U 1F1EF U 1F1F4"
+    "unicode": "U+1F1EF U+1F1F4"
   },
   {
-    "name": "Japonya",
+    "name": "Japan",
     "code": "JP",
     "emoji": "🇯🇵",
-    "unicode": "U 1F1EF U 1F1F5"
+    "unicode": "U+1F1EF U+1F1F5"
   },
   {
     "name": "Kenya",
     "code": "KE",
     "emoji": "🇰🇪",
-    "unicode": "U 1F1F0 U 1F1EA"
+    "unicode": "U+1F1F0 U+1F1EA"
   },
   {
-    "name": "Kırgızistan",
-    "code": "KİLOGRAM",
+    "name": "Kyrgyzstan",
+    "code": "KG",
     "emoji": "🇰🇬",
-    "unicode": "U 1F1F0 U 1F1EC"
+    "unicode": "U+1F1F0 U+1F1EC"
   },
   {
-    "name": "Kamboçya",
+    "name": "Cambodia",
     "code": "KH",
     "emoji": "🇰🇭",
-    "unicode": "U 1F1F0 U 1F1ED"
+    "unicode": "U+1F1F0 U+1F1ED"
   },
   {
     "name": "Kiribati",
-    "code": "ki",
+    "code": "KI",
     "emoji": "🇰🇮",
-    "unicode": "U 1F1F0 U 1F1EE"
+    "unicode": "U+1F1F0 U+1F1EE"
   },
   {
-    "name": "Komorlar",
+    "name": "Comoros",
     "code": "KM",
     "emoji": "🇰🇲",
-    "unicode": "U 1F1F0 U 1F1F2"
+    "unicode": "U+1F1F0 U+1F1F2"
   },
   {
-    "name": "Kitts",
+    "name": "St. Kitts & Nevis",
     "code": "KN",
     "emoji": "🇰🇳",
-    "unicode": "U 1F1F0 U 1F1F3"
+    "unicode": "U+1F1F0 U+1F1F3"
   },
   {
-    "name": "Kuzey Kore",
+    "name": "North Korea",
     "code": "KP",
     "emoji": "🇰🇵",
-    "unicode": "U 1F1F0 U 1F1F5"
+    "unicode": "U+1F1F0 U+1F1F5"
   },
   {
-    "name": "Güney Kore",
+    "name": "South Korea",
     "code": "KR",
     "emoji": "🇰🇷",
-    "unicode": "U 1F1F0 U 1F1F7"
+    "unicode": "U+1F1F0 U+1F1F7"
   },
   {
-    "name": "Kuveyt",
-    "code": "kw",
+    "name": "Kuwait",
+    "code": "KW",
     "emoji": "🇰🇼",
-    "unicode": "U 1F1F0 U 1F1FC"
+    "unicode": "U+1F1F0 U+1F1FC"
   },
   {
-    "name": "Cayman Adaları",
+    "name": "Cayman Islands",
     "code": "KY",
     "emoji": "🇰🇾",
-    "unicode": "U 1F1F0 U 1F1FE"
+    "unicode": "U+1F1F0 U+1F1FE"
   },
   {
-    "name": "Kazakistan",
+    "name": "Kazakhstan",
     "code": "KZ",
     "emoji": "🇰🇿",
-    "unicode": "U 1F1F0 U 1F1FF"
+    "unicode": "U+1F1F0 U+1F1FF"
   },
   {
     "name": "Laos",
-    "code": "Los Angeles",
+    "code": "LA",
     "emoji": "🇱🇦",
-    "unicode": "U 1F1F1 U 1F1E6"
+    "unicode": "U+1F1F1 U+1F1E6"
   },
   {
-    "name": "Lübnan",
-    "code": "1 POUND = 0.45 KG",
+    "name": "Lebanon",
+    "code": "LB",
     "emoji": "🇱🇧",
-    "unicode": "U 1F1F1 U 1F1E7"
+    "unicode": "U+1F1F1 U+1F1E7"
   },
   {
-    "name": "Aziz Lucia",
+    "name": "St. Lucia",
     "code": "LC",
     "emoji": "🇱🇨",
-    "unicode": "U 1F1F1 U 1F1E8"
+    "unicode": "U+1F1F1 U+1F1E8"
   },
   {
-    "name": "Lihtenştayn",
+    "name": "Liechtenstein",
     "code": "LI",
     "emoji": "🇱🇮",
-    "unicode": "U 1F1F1 U 1F1EE"
+    "unicode": "U+1F1F1 U+1F1EE"
   },
   {
     "name": "Sri Lanka",
     "code": "LK",
     "emoji": "🇱🇰",
-    "unicode": "U 1F1F1 U 1F1F0"
+    "unicode": "U+1F1F1 U+1F1F0"
   },
   {
-    "name": "Liberya",
-    "code": "sol",
+    "name": "Liberia",
+    "code": "LR",
     "emoji": "🇱🇷",
-    "unicode": "U 1F1F1 U 1F1F7"
+    "unicode": "U+1F1F1 U+1F1F7"
   },
   {
-    "name": "Lesoto",
+    "name": "Lesotho",
     "code": "LS",
     "emoji": "🇱🇸",
-    "unicode": "U 1F1F1 U 1F1F8"
+    "unicode": "U+1F1F1 U+1F1F8"
   },
   {
-    "name": "Litvanya",
+    "name": "Lithuania",
     "code": "LT",
     "emoji": "🇱🇹",
-    "unicode": "U 1F1F1 U 1F1F9"
+    "unicode": "U+1F1F1 U+1F1F9"
   },
   {
-    "name": "Lüksemburg",
+    "name": "Luxembourg",
     "code": "LU",
     "emoji": "🇱🇺",
-    "unicode": "U 1F1F1 U 1F1FA"
+    "unicode": "U+1F1F1 U+1F1FA"
   },
   {
-    "name": "Letonya",
-    "code": "AG",
+    "name": "Latvia",
+    "code": "LV",
     "emoji": "🇱🇻",
-    "unicode": "U 1F1F1 U 1F1FB"
+    "unicode": "U+1F1F1 U+1F1FB"
   },
   {
     "name": "Libya",
     "code": "LY",
     "emoji": "🇱🇾",
-    "unicode": "U 1F1F1 U 1F1FE"
+    "unicode": "U+1F1F1 U+1F1FE"
   },
   {
-    "name": "Fas",
+    "name": "Morocco",
     "code": "MA",
     "emoji": "🇲🇦",
-    "unicode": "U 1F1F2 U 1F1E6"
+    "unicode": "U+1F1F2 U+1F1E6"
   },
   {
-    "name": "Monako",
+    "name": "Monaco",
     "code": "MC",
     "emoji": "🇲🇨",
-    "unicode": "U 1F1F2 U 1F1E8"
+    "unicode": "U+1F1F2 U+1F1E8"
   },
   {
     "name": "Moldova",
-    "code": "doktor",
+    "code": "MD",
     "emoji": "🇲🇩",
-    "unicode": "U 1F1F2 U 1F1E9"
+    "unicode": "U+1F1F2 U+1F1E9"
   },
   {
-    "name": "Karadağ",
-    "code": "BEN",
+    "name": "Montenegro",
+    "code": "ME",
     "emoji": "🇲🇪",
-    "unicode": "U 1F1F2 U 1F1EA"
+    "unicode": "U+1F1F2 U+1F1EA"
   },
   {
-    "name": "Aziz Martin",
+    "name": "St. Martin",
     "code": "MF",
     "emoji": "🇲🇫",
-    "unicode": "U 1F1F2 U 1F1EB"
+    "unicode": "U+1F1F2 U+1F1EB"
   },
   {
-    "name": "Madagaskar",
+    "name": "Madagascar",
     "code": "MG",
     "emoji": "🇲🇬",
-    "unicode": "U 1F1F2 U 1F1EC"
+    "unicode": "U+1F1F2 U+1F1EC"
   },
   {
-    "name": "Marşal Adaları",
+    "name": "Marshall Islands",
     "code": "MH",
     "emoji": "🇲🇭",
-    "unicode": "U 1F1F2 U 1F1ED"
+    "unicode": "U+1F1F2 U+1F1ED"
   },
   {
-    "name": "Kuzey Makedonya",
+    "name": "North Macedonia",
     "code": "MK",
     "emoji": "🇲🇰",
-    "unicode": "U 1F1F2 U 1F1F0"
+    "unicode": "U+1F1F2 U+1F1F0"
   },
   {
     "name": "Mali",
-    "code": "makine öğrenimi",
+    "code": "ML",
     "emoji": "🇲🇱",
-    "unicode": "U 1F1F2 U 1F1F1"
+    "unicode": "U+1F1F2 U+1F1F1"
   },
   {
-    "name": "Myanmar (Birmanya)",
-    "code": "AA",
+    "name": "Myanmar (Burma)",
+    "code": "MM",
     "emoji": "🇲🇲",
-    "unicode": "U 1F1F2 U 1F1F2"
+    "unicode": "U+1F1F2 U+1F1F2"
   },
   {
-    "name": "Moğolistan",
+    "name": "Mongolia",
     "code": "MN",
     "emoji": "🇲🇳",
-    "unicode": "U 1F1F2 U 1F1F3"
+    "unicode": "U+1F1F2 U+1F1F3"
   },
   {
-    "name": "Makao ÖİB Çin",
+    "name": "Macao SAR China",
     "code": "MO",
     "emoji": "🇲🇴",
-    "unicode": "U 1F1F2 U 1F1F4"
+    "unicode": "U+1F1F2 U+1F1F4"
   },
   {
-    "name": "Kuzey Mariana Adaları",
-    "code": "Milletvekili",
+    "name": "Northern Mariana Islands",
+    "code": "MP",
     "emoji": "🇲🇵",
-    "unicode": "U 1F1F2 U 1F1F5"
+    "unicode": "U+1F1F2 U+1F1F5"
   },
   {
-    "name": "Martinik",
+    "name": "Martinique",
     "code": "MQ",
     "emoji": "🇲🇶",
-    "unicode": "U 1F1F2 U 1F1F6"
+    "unicode": "U+1F1F2 U+1F1F6"
   },
   {
-    "name": "Moritanya",
-    "code": "BAY",
+    "name": "Mauritania",
+    "code": "MR",
     "emoji": "🇲🇷",
-    "unicode": "U 1F1F2 U 1F1F7"
+    "unicode": "U+1F1F2 U+1F1F7"
   },
   {
     "name": "Montserrat",
-    "code": "HANIM",
+    "code": "MS",
     "emoji": "🇲🇸",
-    "unicode": "U 1F1F2 U 1F1F8"
+    "unicode": "U+1F1F2 U+1F1F8"
   },
   {
     "name": "Malta",
     "code": "MT",
     "emoji": "🇲🇹",
-    "unicode": "U 1F1F2 U 1F1F9"
+    "unicode": "U+1F1F2 U+1F1F9"
   },
   {
     "name": "Mauritius",
     "code": "MU",
     "emoji": "🇲🇺",
-    "unicode": "U 1F1F2 U 1F1FA"
+    "unicode": "U+1F1F2 U+1F1FA"
   },
   {
-    "name": "Maldivler",
-    "code": "OG",
+    "name": "Maldives",
+    "code": "MV",
     "emoji": "🇲🇻",
-    "unicode": "U 1F1F2 U 1F1FB"
+    "unicode": "U+1F1F2 U+1F1FB"
   },
   {
     "name": "Malawi",
     "code": "MW",
     "emoji": "🇲🇼",
-    "unicode": "U 1F1F2 U 1F1FC"
+    "unicode": "U+1F1F2 U+1F1FC"
   },
   {
-    "name": "Meksika",
+    "name": "Mexico",
     "code": "MX",
     "emoji": "🇲🇽",
-    "unicode": "U 1F1F2 U 1F1FD"
+    "unicode": "U+1F1F2 U+1F1FD"
   },
   {
-    "name": "Malezya",
-    "code": "BENİM",
+    "name": "Malaysia",
+    "code": "MY",
     "emoji": "🇲🇾",
-    "unicode": "U 1F1F2 U 1F1FE"
+    "unicode": "U+1F1F2 U+1F1FE"
   },
   {
-    "name": "Mozambik",
+    "name": "Mozambique",
     "code": "MZ",
     "emoji": "🇲🇿",
-    "unicode": "U 1F1F2 U 1F1FF"
+    "unicode": "U+1F1F2 U+1F1FF"
   },
   {
-    "name": "Namibya",
-    "code": "yok",
+    "name": "Namibia",
+    "code": "NA",
     "emoji": "🇳🇦",
-    "unicode": "U 1F1F3 U 1F1E6"
+    "unicode": "U+1F1F3 U+1F1E6"
   },
   {
-    "name": "Yeni Kaledonya",
+    "name": "New Caledonia",
     "code": "NC",
     "emoji": "🇳🇨",
-    "unicode": "U 1F1F3 U 1F1E8"
+    "unicode": "U+1F1F3 U+1F1E8"
   },
   {
-    "name": "Nijer",
-    "code": "KD",
+    "name": "Niger",
+    "code": "NE",
     "emoji": "🇳🇪",
-    "unicode": "U 1F1F3 U 1F1EA"
+    "unicode": "U+1F1F3 U+1F1EA"
   },
   {
-    "name": "Norfolk Adası",
+    "name": "Norfolk Island",
     "code": "NF",
     "emoji": "🇳🇫",
-    "unicode": "U 1F1F3 U 1F1EB"
+    "unicode": "U+1F1F3 U+1F1EB"
   },
   {
-    "name": "Nijerya",
+    "name": "Nigeria",
     "code": "NG",
     "emoji": "🇳🇬",
-    "unicode": "U 1F1F3 U 1F1EC"
+    "unicode": "U+1F1F3 U+1F1EC"
   },
   {
-    "name": "Nikaragua",
+    "name": "Nicaragua",
     "code": "NI",
     "emoji": "🇳🇮",
-    "unicode": "U 1F1F3 U 1F1EE"
+    "unicode": "U+1F1F3 U+1F1EE"
   },
   {
-    "name": "Hollanda",
+    "name": "Netherlands",
     "code": "NL",
     "emoji": "🇳🇱",
-    "unicode": "U 1F1F3 U 1F1F1"
+    "unicode": "U+1F1F3 U+1F1F1"
   },
   {
-    "name": "Norveç",
-    "code": "HAYIR",
+    "name": "Norway",
+    "code": "NO",
     "emoji": "🇳🇴",
-    "unicode": "U 1F1F3 U 1F1F4"
+    "unicode": "U+1F1F3 U+1F1F4"
   },
   {
     "name": "Nepal",
     "code": "NP",
     "emoji": "🇳🇵",
-    "unicode": "U 1F1F3 U 1F1F5"
+    "unicode": "U+1F1F3 U+1F1F5"
   },
   {
     "name": "Nauru",
     "code": "NR",
     "emoji": "🇳🇷",
-    "unicode": "U 1F1F3 U 1F1F7"
+    "unicode": "U+1F1F3 U+1F1F7"
   },
   {
     "name": "Niue",
     "code": "NU",
     "emoji": "🇳🇺",
-    "unicode": "U 1F1F3 U 1F1FA"
+    "unicode": "U+1F1F3 U+1F1FA"
   },
   {
-    "name": "Yeni Zelanda",
-    "code": "Yeni Zelanda",
+    "name": "New Zealand",
+    "code": "NZ",
     "emoji": "🇳🇿",
-    "unicode": "U 1F1F3 U 1F1FF"
+    "unicode": "U+1F1F3 U+1F1FF"
   },
   {
-    "name": "Umman",
-    "code": "om",
+    "name": "Oman",
+    "code": "OM",
     "emoji": "🇴🇲",
-    "unicode": "U 1F1F4 U 1F1F2"
+    "unicode": "U+1F1F4 U+1F1F2"
   },
   {
     "name": "Panama",
     "code": "PA",
     "emoji": "🇵🇦",
-    "unicode": "U 1F1F5 U 1F1E6"
+    "unicode": "U+1F1F5 U+1F1E6"
   },
   {
     "name": "Peru",
     "code": "PE",
     "emoji": "🇵🇪",
-    "unicode": "U 1F1F5 U 1F1EA"
+    "unicode": "U+1F1F5 U+1F1EA"
   },
   {
-    "name": "Fransız Polinezyası",
+    "name": "French Polynesia",
     "code": "PF",
     "emoji": "🇵🇫",
-    "unicode": "U 1F1F5 U 1F1EB"
+    "unicode": "U+1F1F5 U+1F1EB"
   },
   {
-    "name": "Papua Yeni Gine",
+    "name": "Papua New Guinea",
     "code": "PG",
     "emoji": "🇵🇬",
-    "unicode": "U 1F1F5 U 1F1EC"
+    "unicode": "U+1F1F5 U+1F1EC"
   },
   {
-    "name": "Filipinler",
+    "name": "Philippines",
     "code": "PH",
     "emoji": "🇵🇭",
-    "unicode": "U 1F1F5 U 1F1ED"
+    "unicode": "U+1F1F5 U+1F1ED"
   },
   {
     "name": "Pakistan",
     "code": "PK",
     "emoji": "🇵🇰",
-    "unicode": "U 1F1F5 U 1F1F0"
+    "unicode": "U+1F1F5 U+1F1F0"
   },
   {
-    "name": "Polonya",
+    "name": "Poland",
     "code": "PL",
     "emoji": "🇵🇱",
-    "unicode": "U 1F1F5 U 1F1F1"
+    "unicode": "U+1F1F5 U+1F1F1"
   },
   {
-    "name": "Aziz Pierre",
-    "code": "ÖĞLEDEN SONRA",
+    "name": "St. Pierre & Miquelon",
+    "code": "PM",
     "emoji": "🇵🇲",
-    "unicode": "U 1F1F5 U 1F1F2"
+    "unicode": "U+1F1F5 U+1F1F2"
   },
   {
-    "name": "Pitcairn Adaları",
+    "name": "Pitcairn Islands",
     "code": "PN",
     "emoji": "🇵🇳",
-    "unicode": "U 1F1F5 U 1F1F3"
+    "unicode": "U+1F1F5 U+1F1F3"
   },
   {
-    "name": "Porto Riko",
-    "code": "halkla ilişkiler",
+    "name": "Puerto Rico",
+    "code": "PR",
     "emoji": "🇵🇷",
-    "unicode": "U 1F1F5 U 1F1F7"
+    "unicode": "U+1F1F5 U+1F1F7"
   },
   {
-    "name": "Filistin Bölgesi",
+    "name": "Palestinian Territories",
     "code": "PS",
     "emoji": "🇵🇸",
-    "unicode": "U 1F1F5 U 1F1F8"
+    "unicode": "U+1F1F5 U+1F1F8"
   },
   {
-    "name": "Portekiz",
+    "name": "Portugal",
     "code": "PT",
     "emoji": "🇵🇹",
-    "unicode": "U 1F1F5 U 1F1F9"
+    "unicode": "U+1F1F5 U+1F1F9"
   },
   {
-    "name": "palau",
+    "name": "Palau",
     "code": "PW",
     "emoji": "🇵🇼",
-    "unicode": "U 1F1F5 U 1F1FC"
+    "unicode": "U+1F1F5 U+1F1FC"
   },
   {
     "name": "Paraguay",
     "code": "PY",
     "emoji": "🇵🇾",
-    "unicode": "U 1F1F5 U 1F1FE"
+    "unicode": "U+1F1F5 U+1F1FE"
   },
   {
-    "name": "Katar",
-    "code": "KG",
+    "name": "Qatar",
+    "code": "QA",
     "emoji": "🇶🇦",
-    "unicode": "U 1F1F6 U 1F1E6"
+    "unicode": "U+1F1F6 U+1F1E6"
   },
   {
-    "name": "birleşme",
-    "code": "TEKRAR",
+    "name": "Réunion",
+    "code": "RE",
     "emoji": "🇷🇪",
-    "unicode": "U 1F1F7 U 1F1EA"
+    "unicode": "U+1F1F7 U+1F1EA"
   },
   {
-    "name": "Romanya",
+    "name": "Romania",
     "code": "RO",
     "emoji": "🇷🇴",
-    "unicode": "U 1F1F7 U 1F1F4"
+    "unicode": "U+1F1F7 U+1F1F4"
   },
   {
-    "name": "Sırbistan",
+    "name": "Serbia",
     "code": "RS",
     "emoji": "🇷🇸",
-    "unicode": "U 1F1F7 U 1F1F8"
+    "unicode": "U+1F1F7 U+1F1F8"
   },
   {
-    "name": "Rusya",
+    "name": "Russia",
     "code": "RU",
     "emoji": "🇷🇺",
-    "unicode": "U 1F1F7 U 1F1FA"
+    "unicode": "U+1F1F7 U+1F1FA"
   },
   {
-    "name": "Ruanda",
+    "name": "Rwanda",
     "code": "RW",
     "emoji": "🇷🇼",
-    "unicode": "U 1F1F7 U 1F1FC"
+    "unicode": "U+1F1F7 U+1F1FC"
   },
   {
-    "name": "Suudi Arabistan",
+    "name": "Saudi Arabia",
     "code": "SA",
     "emoji": "🇸🇦",
-    "unicode": "U 1F1F8 U 1F1E6"
+    "unicode": "U+1F1F8 U+1F1E6"
   },
   {
-    "name": "Solomon Adaları",
+    "name": "Solomon Islands",
     "code": "SB",
     "emoji": "🇸🇧",
-    "unicode": "U 1F1F8 U 1F1E7"
+    "unicode": "U+1F1F8 U+1F1E7"
   },
   {
-    "name": "Seyşeller",
+    "name": "Seychelles",
     "code": "SC",
     "emoji": "🇸🇨",
-    "unicode": "U 1F1F8 U 1F1E8"
+    "unicode": "U+1F1F8 U+1F1E8"
   },
   {
     "name": "Sudan",
     "code": "SD",
     "emoji": "🇸🇩",
-    "unicode": "U 1F1F8 U 1F1E9"
+    "unicode": "U+1F1F8 U+1F1E9"
   },
   {
-    "name": "İsveç",
-    "code": "GD",
+    "name": "Sweden",
+    "code": "SE",
     "emoji": "🇸🇪",
-    "unicode": "U 1F1F8 U 1F1EA"
+    "unicode": "U+1F1F8 U+1F1EA"
   },
   {
-    "name": "Singapur",
+    "name": "Singapore",
     "code": "SG",
     "emoji": "🇸🇬",
-    "unicode": "U 1F1F8 U 1F1EC"
+    "unicode": "U+1F1F8 U+1F1EC"
   },
   {
-    "name": "Aziz Helena",
+    "name": "St. Helena",
     "code": "SH",
     "emoji": "🇸🇭",
-    "unicode": "U 1F1F8 U 1F1ED"
+    "unicode": "U+1F1F8 U+1F1ED"
   },
   {
-    "name": "Slovenya",
-    "code": "Sİ",
+    "name": "Slovenia",
+    "code": "SI",
     "emoji": "🇸🇮",
-    "unicode": "U 1F1F8 U 1F1EE"
+    "unicode": "U+1F1F8 U+1F1EE"
   },
   {
-    "name": "Svalbard",
+    "name": "Svalbard & Jan Mayen",
     "code": "SJ",
     "emoji": "🇸🇯",
-    "unicode": "U 1F1F8 U 1F1EF"
+    "unicode": "U+1F1F8 U+1F1EF"
   },
   {
-    "name": "Slovakya",
+    "name": "Slovakia",
     "code": "SK",
     "emoji": "🇸🇰",
-    "unicode": "U 1F1F8 U 1F1F0"
+    "unicode": "U+1F1F8 U+1F1F0"
   },
   {
     "name": "Sierra Leone",
     "code": "SL",
     "emoji": "🇸🇱",
-    "unicode": "U 1F1F8 U 1F1F1"
+    "unicode": "U+1F1F8 U+1F1F1"
   },
   {
     "name": "San Marino",
     "code": "SM",
     "emoji": "🇸🇲",
-    "unicode": "U 1F1F8 U 1F1F2"
+    "unicode": "U+1F1F8 U+1F1F2"
   },
   {
     "name": "Senegal",
     "code": "SN",
     "emoji": "🇸🇳",
-    "unicode": "U 1F1F8 U 1F1F3"
+    "unicode": "U+1F1F8 U+1F1F3"
   },
   {
-    "name": "Somali",
-    "code": "BÖYLE",
+    "name": "Somalia",
+    "code": "SO",
     "emoji": "🇸🇴",
-    "unicode": "U 1F1F8 U 1F1F4"
+    "unicode": "U+1F1F8 U+1F1F4"
   },
   {
-    "name": "Surinam",
+    "name": "Suriname",
     "code": "SR",
     "emoji": "🇸🇷",
-    "unicode": "U 1F1F8 U 1F1F7"
+    "unicode": "U+1F1F8 U+1F1F7"
   },
   {
-    "name": "Güney Sudan",
+    "name": "South Sudan",
     "code": "SS",
     "emoji": "🇸🇸",
-    "unicode": "U 1F1F8 U 1F1F8"
+    "unicode": "U+1F1F8 U+1F1F8"
   },
   {
-    "name": "São Tomé",
+    "name": "São Tomé & Príncipe",
     "code": "ST",
     "emoji": "🇸🇹",
-    "unicode": "U 1F1F8 U 1F1F9"
+    "unicode": "U+1F1F8 U+1F1F9"
   },
   {
     "name": "El Salvador",
     "code": "SV",
     "emoji": "🇸🇻",
-    "unicode": "U 1F1F8 U 1F1FB"
+    "unicode": "U+1F1F8 U+1F1FB"
   },
   {
     "name": "Sint Maarten",
     "code": "SX",
     "emoji": "🇸🇽",
-    "unicode": "U 1F1F8 U 1F1FD"
+    "unicode": "U+1F1F8 U+1F1FD"
   },
   {
-    "name": "Suriye",
+    "name": "Syria",
     "code": "SY",
     "emoji": "🇸🇾",
-    "unicode": "U 1F1F8 U 1F1FE"
+    "unicode": "U+1F1F8 U+1F1FE"
   },
   {
-    "name": "Esvatini",
+    "name": "Eswatini",
     "code": "SZ",
     "emoji": "🇸🇿",
-    "unicode": "U 1F1F8 U 1F1FF"
+    "unicode": "U+1F1F8 U+1F1FF"
   },
   {
     "name": "Tristan da Cunha",
     "code": "TA",
     "emoji": "🇹🇦",
-    "unicode": "U 1F1F9 U 1F1E6"
+    "unicode": "U+1F1F9 U+1F1E6"
   },
   {
-    "name": "Türkler",
+    "name": "Turks & Caicos Islands",
     "code": "TC",
     "emoji": "🇹🇨",
-    "unicode": "U 1F1F9 U 1F1E8"
+    "unicode": "U+1F1F9 U+1F1E8"
   },
   {
-    "name": "Çad",
+    "name": "Chad",
     "code": "TD",
     "emoji": "🇹🇩",
-    "unicode": "U 1F1F9 U 1F1E9"
+    "unicode": "U+1F1F9 U+1F1E9"
   },
   {
-    "name": "Fransız Güney Toprakları",
+    "name": "French Southern Territories",
     "code": "TF",
     "emoji": "🇹🇫",
-    "unicode": "U 1F1F9 U 1F1EB"
+    "unicode": "U+1F1F9 U+1F1EB"
   },
   {
-    "name": "Gitmek",
+    "name": "Togo",
     "code": "TG",
     "emoji": "🇹🇬",
-    "unicode": "U 1F1F9 U 1F1EC"
+    "unicode": "U+1F1F9 U+1F1EC"
   },
   {
-    "name": "Tayland",
+    "name": "Thailand",
     "code": "TH",
     "emoji": "🇹🇭",
-    "unicode": "U 1F1F9 U 1F1ED"
+    "unicode": "U+1F1F9 U+1F1ED"
   },
   {
-    "name": "Tacikistan",
+    "name": "Tajikistan",
     "code": "TJ",
     "emoji": "🇹🇯",
-    "unicode": "U 1F1F9 U 1F1EF"
+    "unicode": "U+1F1F9 U+1F1EF"
   },
   {
     "name": "Tokelau",
     "code": "TK",
     "emoji": "🇹🇰",
-    "unicode": "U 1F1F9 U 1F1F0"
+    "unicode": "U+1F1F9 U+1F1F0"
   },
   {
-    "name": "Doğu Timor",
+    "name": "Timor-Leste",
     "code": "TL",
     "emoji": "🇹🇱",
-    "unicode": "U 1F1F9 U 1F1F1"
+    "unicode": "U+1F1F9 U+1F1F1"
   },
   {
-    "name": "Türkmenistan",
+    "name": "Turkmenistan",
     "code": "TM",
     "emoji": "🇹🇲",
-    "unicode": "U 1F1F9 U 1F1F2"
+    "unicode": "U+1F1F9 U+1F1F2"
   },
   {
-    "name": "Tunus",
+    "name": "Tunisia",
     "code": "TN",
     "emoji": "🇹🇳",
-    "unicode": "U 1F1F9 U 1F1F3"
+    "unicode": "U+1F1F9 U+1F1F3"
   },
   {
     "name": "Tonga",
-    "code": "İLE",
+    "code": "TO",
     "emoji": "🇹🇴",
-    "unicode": "U 1F1F9 U 1F1F4"
+    "unicode": "U+1F1F9 U+1F1F4"
   },
   {
-    "name": "Türkiye",
+    "name": "Turkey",
     "code": "TR",
     "emoji": "🇹🇷",
-    "unicode": "U 1F1F9 U 1F1F7"
+    "unicode": "U+1F1F9 U+1F1F7"
   },
   {
-    "name": "Trinidad",
+    "name": "Trinidad & Tobago",
     "code": "TT",
     "emoji": "🇹🇹",
-    "unicode": "U 1F1F9 U 1F1F9"
+    "unicode": "U+1F1F9 U+1F1F9"
   },
   {
-    "name": "tuvalu",
-    "code": "televizyon",
+    "name": "Tuvalu",
+    "code": "TV",
     "emoji": "🇹🇻",
-    "unicode": "U 1F1F9 U 1F1FB"
+    "unicode": "U+1F1F9 U+1F1FB"
   },
   {
-    "name": "Tayvan",
+    "name": "Taiwan",
     "code": "TW",
     "emoji": "🇹🇼",
-    "unicode": "U 1F1F9 U 1F1FC"
+    "unicode": "U+1F1F9 U+1F1FC"
   },
   {
-    "name": "Tanzanya",
+    "name": "Tanzania",
     "code": "TZ",
     "emoji": "🇹🇿",
-    "unicode": "U 1F1F9 U 1F1FF"
+    "unicode": "U+1F1F9 U+1F1FF"
   },
   {
-    "name": "Ukrayna",
-    "code": "Birleşik Arap Emirlikleri",
+    "name": "Ukraine",
+    "code": "UA",
     "emoji": "🇺🇦",
-    "unicode": "U 1F1FA U 1F1E6"
+    "unicode": "U+1F1FA U+1F1E6"
   },
   {
     "name": "Uganda",
     "code": "UG",
     "emoji": "🇺🇬",
-    "unicode": "U 1F1FA U 1F1EC"
+    "unicode": "U+1F1FA U+1F1EC"
   },
   {
-    "name": "ABD Dış Adaları",
+    "name": "U.S. Outlying Islands",
     "code": "UM",
     "emoji": "🇺🇲",
-    "unicode": "U 1F1FA U 1F1F2"
+    "unicode": "U+1F1FA U+1F1F2"
   },
   {
-    "name": "Birleşmiş Milletler",
-    "code": "BM",
+    "name": "United Nations",
+    "code": "UN",
     "emoji": "🇺🇳",
-    "unicode": "U 1F1FA U 1F1F3"
+    "unicode": "U+1F1FA U+1F1F3"
   },
   {
-    "name": "Amerika Birleşik Devletleri",
-    "code": "BİZ",
+    "name": "United States",
+    "code": "US",
     "emoji": "🇺🇸",
-    "unicode": "U 1F1FA U 1F1F8"
+    "unicode": "U+1F1FA U+1F1F8"
   },
   {
     "name": "Uruguay",
     "code": "UY",
     "emoji": "🇺🇾",
-    "unicode": "U 1F1FA U 1F1FE"
+    "unicode": "U+1F1FA U+1F1FE"
   },
   {
-    "name": "Özbekistan",
+    "name": "Uzbekistan",
     "code": "UZ",
     "emoji": "🇺🇿",
-    "unicode": "U 1F1FA U 1F1FF"
+    "unicode": "U+1F1FA U+1F1FF"
   },
   {
-    "name": "Vatikan Şehri",
+    "name": "Vatican City",
     "code": "VA",
     "emoji": "🇻🇦",
-    "unicode": "U 1F1FB U 1F1E6"
+    "unicode": "U+1F1FB U+1F1E6"
   },
   {
-    "name": "Vincent Sokağı",
-    "code": "VK",
+    "name": "St. Vincent & Grenadines",
+    "code": "VC",
     "emoji": "🇻🇨",
-    "unicode": "U 1F1FB U 1F1E8"
+    "unicode": "U+1F1FB U+1F1E8"
   },
   {
     "name": "Venezuela",
     "code": "VE",
     "emoji": "🇻🇪",
-    "unicode": "U 1F1FB U 1F1EA"
+    "unicode": "U+1F1FB U+1F1EA"
   },
   {
-    "name": "Britanya Virjin Adaları",
+    "name": "British Virgin Islands",
     "code": "VG",
     "emoji": "🇻🇬",
-    "unicode": "U 1F1FB U 1F1EC"
+    "unicode": "U+1F1FB U+1F1EC"
   },
   {
-    "name": "Amerika Birleşik Devletleri Virgin Adaları",
+    "name": "U.S. Virgin Islands",
     "code": "VI",
     "emoji": "🇻🇮",
-    "unicode": "U 1F1FB U 1F1EE"
+    "unicode": "U+1F1FB U+1F1EE"
   },
   {
     "name": "Vietnam",
     "code": "VN",
     "emoji": "🇻🇳",
-    "unicode": "U 1F1FB U 1F1F3"
+    "unicode": "U+1F1FB U+1F1F3"
   },
   {
     "name": "Vanuatu",
     "code": "VU",
     "emoji": "🇻🇺",
-    "unicode": "U 1F1FB U 1F1FA"
+    "unicode": "U+1F1FB U+1F1FA"
   },
   {
-    "name": "Wallis",
+    "name": "Wallis & Futuna",
     "code": "WF",
     "emoji": "🇼🇫",
-    "unicode": "U 1F1FC U 1F1EB"
+    "unicode": "U+1F1FC U+1F1EB"
   },
   {
     "name": "Samoa",
     "code": "WS",
     "emoji": "🇼🇸",
-    "unicode": "U 1F1FC U 1F1F8"
+    "unicode": "U+1F1FC U+1F1F8"
   },
   {
-    "name": "Kosova",
+    "name": "Kosovo",
     "code": "XK",
     "emoji": "🇽🇰",
-    "unicode": "U 1F1FD U 1F1F0"
+    "unicode": "U+1F1FD U+1F1F0"
   },
   {
     "name": "Yemen",
-    "code": "evet",
+    "code": "YE",
     "emoji": "🇾🇪",
-    "unicode": "U 1F1FE U 1F1EA"
+    "unicode": "U+1F1FE U+1F1EA"
   },
   {
-    "name": "mayot",
+    "name": "Mayotte",
     "code": "YT",
     "emoji": "🇾🇹",
-    "unicode": "U 1F1FE U 1F1F9"
+    "unicode": "U+1F1FE U+1F1F9"
   },
   {
-    "name": "Güney Afrika",
+    "name": "South Africa",
     "code": "ZA",
     "emoji": "🇿🇦",
-    "unicode": "U 1F1FF U 1F1E6"
+    "unicode": "U+1F1FF U+1F1E6"
   },
   {
-    "name": "Zambiya",
+    "name": "Zambia",
     "code": "ZM",
     "emoji": "🇿🇲",
-    "unicode": "U 1F1FF U 1F1F2"
+    "unicode": "U+1F1FF U+1F1F2"
   },
   {
-    "name": "Zimbabve",
+    "name": "Zimbabwe",
     "code": "ZW",
     "emoji": "🇿🇼",
-    "unicode": "U 1F1FF U 1F1FC"
+    "unicode": "U+1F1FF U+1F1FC"
   },
   {
-    "name": "İngiltere",
-    "code": "İNGİLTERE",
-    "emoji": "🇬🇧",
-    "unicode": "U 1F3F4 U E0067 U E0062 U E0065 U E006E U E0067 U E007F"
+    "name": "England",
+    "code": "ENGLAND",
+    "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "unicode": "U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F"
   },
   {
-    "name": "İskoçya",
-    "code": "İSKOÇYA",
+    "name": "Scotland",
+    "code": "SCOTLAND",
     "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-    "unicode": "U 1F3F4 U E0067 U E0062 U E0073 U E0063 U E0074 U E007F"
+    "unicode": "U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F"
   },
   {
-    "name": "Galler",
-    "code": "GALLER",
-    "emoji": "🏴󠁧󠁢󠁷",
-    "unicode": "U 1F3F4 U E0067 U E0062 U E0077 U E006C U E0073 U E007F"
+    "name": "Wales",
+    "code": "WALES",
+    "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "unicode": "U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F"
   }
 ]
