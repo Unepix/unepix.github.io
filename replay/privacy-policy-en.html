@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+    .container {
+      width: 100%;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    h1 {
+      border-bottom: 2px solid #3498db;
+      padding-bottom: 10px;
+    }
+    .updated-date {
+      font-size: 0.9em;
+      color: #7f8c8d;
+    }
+    p, ul {
+      line-height: 1.8;
+    }
+    ul {
+      margin: 20px 0;
+      padding: 0;
+      list-style-type: none;
+    }
+    ul li {
+      background: url("https://img.icons8.com/?size=100&id=85913&format=png&color=3498db") no-repeat left center;
+      background-size: 10px;
+      padding-left: 25px;
+      margin-bottom: 10px;
+    }
+    a {
+      color: #3498db;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .contact {
+      margin-top: 20px;
+      font-size: 1.1em;
+    }
+    .language-selector {
+      float: right;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="language-selector">
+      <label for="language">Dil/Language:</label>
+      <select id="language" onchange="changeLanguage()">
+        <option value="tr">Türkçe</option>
+        <option value="en" selected>English</option>
+      </select>
+    </div>
+    <h1>Privacy Policy</h1>
+    <p class="updated-date">Last updated: July 16, 2024</p>
+    <p>
+      This privacy policy explains how data collected during the use of our Android music application is processed, stored, and protected. We place great importance on user data privacy and take all necessary measures to protect this data.
+    </p>
+
+    <h2>Data Collected and Purpose of Use</h2>
+    <p>
+      When using our application, we access certain data to improve user experience and enhance the functionality of the application:
+    </p>
+
+    <h2>Firebase Analytics and Crash Reports</h2>
+    <p>
+      We use Firebase services to monitor application performance, understand user behavior, and fix errors. You can find more information about Firebase's privacy policy
+      <a href="https://firebase.google.com/support/privacy" target="_blank">here</a>.
+    </p>
+    <ul>
+      <li>
+        <strong>Application Performance:</strong> We monitor how fast and smoothly the application runs. This allows us to identify performance bottlenecks and further optimize the application.
+      </li>
+      <li>
+        <strong>User Behavior:</strong> We understand how users interact with the application. What are the most used features? How much time do users spend in the application? We use this information to develop the application to better suit user needs.
+      </li>
+      <li>
+        <strong>Error Debugging:</strong> If you experience any issues with the application, we may use Firebase to determine the source of the problem. This allows us to fix errors more quickly and provide you with a better experience.
+      </li>
+    </ul>
+
+    <h2>Internal Storage Permission and Usage</h2>
+    <p>
+      The application requires internal storage permission to list and play your music files. Without this permission, you cannot use the application.
+    </p>
+    <ul>
+      <li>
+        <strong>Access to Music Files:</strong> The application needs this permission to list and play your music files.
+      </li>
+      <li>
+        <strong>Modify or Delete Files:</strong> We do not allow the application to modify or delete your music files.
+      </li>
+    </ul>
+
+    <h2>Notification Permission and Usage</h2>
+    <p>
+      Notification permission is required to display music player notifications and other important notifications.
+    </p>
+    <ul>
+      <li>
+        <strong>Music Player Notifications:</strong> We need this permission for notifications when a song changes, when you pause, or when you resume playing.
+      </li>
+      <li>
+        <strong>Other Important Notifications:</strong> We may also send notifications about application updates, new features, and bug fixes.
+      </li>
+    </ul>
+
+    <h2>Access to Images Permission and Usage</h2>
+    <p>
+      <strong>This permission is not mandatory</strong>, but without it, you cannot use features that require access to images. For example, custom background images and your profile picture require this permission to be active. If you enable this permission, we do not share your images with third parties. Images used are taken directly from your device, and if you delete an image added to the application, it will no longer be available within the application. However, if you prefer, you can keep this permission disabled.
+    </p>
+
+    <h2>Data Security</h2>
+    <p>
+      We use industry best practices to protect your personal data. However, we cannot guarantee the complete security of data transmissions over the internet. We continuously update and improve our security policies to protect our users' data.
+    </p>
+
+    <h2>Changes to the Privacy Policy</h2>
+    <p>
+      We may update this privacy policy from time to time. We will notify our users of any policy changes by posting them on this page. Therefore, we recommend that you review our privacy policy regularly.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      If you have any questions or concerns about our privacy policy, please feel free to contact us
+      <a href="mailto:unepixhelp@gmail.com">here</a>.
+    </p>
+  </div>
+
+  <script>
+    function changeLanguage() {
+      const language = document.getElementById('language').value;
+      if (language === 'en') {
+        window.location.href = 'privacy-policy-en.html';
+      } else if (language === 'tr') {
+        window.location.href = 'privacy-policy-tr.html';
+      }
+    }
+  </script>
+</body>
+</html>

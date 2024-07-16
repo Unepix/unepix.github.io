@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gizlilik Politikası</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+    .container {
+      width: 100%;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    h1 {
+      border-bottom: 2px solid #3498db;
+      padding-bottom: 10px;
+    }
+    .updated-date {
+      font-size: 0.9em;
+      color: #7f8c8d;
+    }
+    p, ul {
+      line-height: 1.8;
+    }
+    ul {
+      margin: 20px 0;
+      padding: 0;
+      list-style-type: none;
+    }
+    ul li {
+      background: url("https://img.icons8.com/?size=100&id=85913&format=png&color=3498db") no-repeat left center;
+      background-size: 10px;
+      padding-left: 25px;
+      margin-bottom: 10px;
+    }
+    a {
+      color: #3498db;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .contact {
+      margin-top: 20px;
+      font-size: 1.1em;
+    }
+    .language-selector {
+      float: right;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="language-selector">
+      <label for="language">Dil/Language:</label>
+      <select id="language" onchange="changeLanguage()">
+        <option value="tr" selected>Türkçe</option>
+        <option value="en">English</option>
+      </select>
+    </div>
+    <h1>Gizlilik Politikası</h1>
+    <p class="updated-date">En son güncellenme tarihi: 16 Temmuz 2024</p>
+    <p>
+      Bu gizlilik politikası, Android müzik uygulamamızın kullanımı sırasında
+      toplanan verilerin nasıl işlendiğini, saklandığını ve korunduğunu
+      açıklamaktadır. Kullanıcı verilerinin gizliliğine büyük önem veriyoruz
+      ve bu verileri korumak için gereken tüm önlemleri alıyoruz.
+    </p>
+
+    <h2>Toplanan Veriler ve Kullanım Amacı</h2>
+    <p>
+      Uygulamamızı kullanırken, kullanıcı deneyimini iyileştirmek ve
+      uygulamanın işlevselliğini artırmak için belirli verilere erişim
+      sağlarız:
+    </p>
+
+    <h2>Firebase Analizleri ve Çökme Raporları</h2>
+    <p>
+      Uygulamanın performansını izlemek, kullanıcı davranışlarını anlamak ve
+      hataları gidermek için Firebase hizmetlerini kullanıyoruz. Firebase'in
+      gizlilik politikası hakkında daha fazla bilgiye
+      <a href="https://firebase.google.com/support/privacy" target="_blank"
+        >buradan</a
+      >
+      ulaşabilirsiniz.
+    </p>
+    <ul>
+      <li>
+        <strong>Uygulama Performansı:</strong> Uygulamanın ne kadar hızlı ve
+        sorunsuz çalıştığını izliyoruz. Bu sayede performans darboğazlarını
+        belirleyerek uygulamayı daha da optimize edebiliyoruz.
+      </li>
+      <li>
+        <strong>Kullanıcı Davranışı:</strong> Kullanıcıların uygulama ile
+        nasıl etkileşime girdiklerini anlıyoruz. En çok kullanılan özellikler
+        nelerdir? Kullanıcılar uygulamada ne kadar zaman harcıyorlar? Bu
+        bilgileri kullanarak uygulamayı kullanıcıların ihtiyaçlarına daha iyi
+        uyacak şekilde geliştirebiliriz.
+      </li>
+      <li>
+        <strong>Hata Ayıklama:</strong> Uygulamayla ilgili herhangi bir sorun
+        yaşarsanız, sorunun kaynağını belirlemek için Firebase'i
+        kullanabiliriz. Bu sayede hataları daha hızlı düzeltebilir ve size
+        daha iyi bir deneyim sunabiliriz.
+      </li>
+    </ul>
+
+    <h2>Dahili Depolama İzni ve Kullanımı</h2>
+    <p>
+      Uygulamanın müzik dosyalarınızı listeleyebilmesi ve oynatabilmesi için
+      dahili depolama iznine ihtiyacı vardır. Bu izin olmadan, uygulamayı kullanamazsınız.
+    </p>
+    <ul>
+      <li>
+        <strong>Müzik Dosyalarına Erişim:</strong> Uygulamanın müzik
+        dosyalarınızı listeleyebilmesi ve oynatabilmesi için bu izne ihtiyacı
+        vardır.
+      </li>
+      <li>
+        <strong>Dosyaları Değiştirme veya Silme:</strong> Uygulamanın müzik
+        dosyalarınızı değiştirmesine veya silmesine izin vermiyoruz.
+      </li>
+    </ul>
+
+    <h2>Bildirim İzni ve Kullanımı</h2>
+    <p>
+      Müzik oynatıcısı bildirimleri ve diğer önemli bildirimleri gösterebilmek
+      için bildirim izni gereklidir.
+    </p>
+    <ul>
+      <li>
+        <strong>Müzik Oynatıcısı Bildirimleri:</strong> Şarkı değiştiğinde,
+        durakladığınızda veya oynatmaya devam ettiğinizde bildirimler almanız
+        için bu izne ihtiyacımız var.
+      </li>
+      <li>
+        <strong>Diğer Önemli Bildirimler:</strong> Uygulama güncellemeleri,
+        yeni özellikler ve hatalarla ilgili bildirimler de gönderebiliriz.
+      </li>
+    </ul>
+
+    <h2>Resimlere Erişim İzni ve Kullanımı</h2>
+    <p>
+      <strong>Bu izin zorunlu değildir</strong> ancak izin verilmediğinde,
+      resim izni gerektiren özellikleri kullanamazsınız. Örnek olarak, özel
+      arkaplan resimleri ve profil fotoğrafınız gibi özellikler bu izni aktif
+      etmeniz durumunda kullanılabilir. Bu izni aktif etmeniz durumunda,
+      resimlerinizi üçüncü taraflara iletmeyiz. Kullanılan resimler doğrudan
+      cihazınız üzerinden alınır ve uygulama içine eklenmiş bir resmi silerseniz uygulama içinde
+      kullanılamaz hale gelir. Ancak, bu izni kapalı tutmak isterseniz
+      kapatabilirsiniz.
+    </p>
+
+    <h2>Veri Güvenliği</h2>
+    <p>
+      Kişisel verilerinizi korumak için sektördeki en iyi uygulamalara uygun
+      güvenlik önlemleri kullanıyoruz. Ancak, internet üzerinden yapılan veri
+      iletimlerinin tamamen güvenli olduğunu garanti edemeyiz.
+      Kullanıcılarımızın verilerini korumak için sürekli olarak güvenlik
+      politikalarımızı güncelliyor ve iyileştiriyoruz.
+    </p>
+
+    <h2>Gizlilik Politikası Değişiklikleri</h2>
+    <p>
+      Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Politika
+      değişikliklerini bu sayfada yayınlayarak kullanıcılarımızı
+      bilgilendiririz. Bu nedenle, gizlilik politikamızı düzenli olarak gözden
+      geçirmenizi öneririz.
+    </p>
+
+    <h2>İletişim</h2>
+    <p>
+      Gizlilik politikamız hakkında herhangi bir sorunuz veya endişeniz varsa,
+      lütfen bizimle <a href="mailto:unepixhelp@gmail.com">buradan</a> iletişime geçmekten çekinmeyin.
+    </p>
+  </div>
+
+  <script>
+    function changeLanguage() {
+      const language = document.getElementById('language').value;
+      if (language === 'en') {
+        window.location.href = 'privacy-policy-en.html';
+      } else if (language === 'tr') {
+        window.location.href = 'privacy-policy-tr.html';
+      }
+    }
+  </script>
+</body>
+</html>
